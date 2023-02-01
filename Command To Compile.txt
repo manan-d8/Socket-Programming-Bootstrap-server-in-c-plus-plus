@@ -1,0 +1,1 @@
+g++ -o Server_IMAGE Server_IMAGE.cpp -lpthread ; g++ -o Server_TEXT Server_TEXT.cpp -lpthread ; g++ -o Server_PDF Server_PDF.cpp -lpthread ; g++ -o Server_VIDEO Server_VIDEO.cpp -lpthread ; g++ -o Bootstrap Bootstrap_Server.cpp ; g++ -o client Client.cpp
